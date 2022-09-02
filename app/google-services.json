@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706567722818",
+    "project_id": "ngringinapk",
+    "storage_bucket": "ngringinapk.appspot.com",
+    "firebase_url": "https://ngringinapk-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706567722818:android:a2cac93ecf8c0e9dab1adb",
+        "android_client_info": {
+          "package_name": "com.rahmawan.ngringinapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706567722818-gcsacoj0r57euqmgp7g6cp7k22tkv9sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi4Ect003kmSg05e4JJG-qsEWE9Jvistc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706567722818-gcsacoj0r57euqmgp7g6cp7k22tkv9sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

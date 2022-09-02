@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:background="@color/purple_200"
+	android:gravity="center"
+	android:orientation="vertical"
+	android:padding="16dp"
+	android:theme="@style/ThemeOverlay.AppCompat.Dark">
+	<de.hdodenhof.circleimageview.CircleImageView
+		android:id="@+id/iv_profil"
+		android:layout_width="75dp"
+		android:layout_height="75dp"
+		tools:src="@tools:sample/avatars"
+		android:layout_marginTop="25dp"/>
+	<TextView
+		android:id="@+id/tv_nama"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textColor="@color/black"
+		android:textStyle="bold"
+		android:paddingTop="16dp"
+		tools:text="Rahmawan"/>
+</LinearLayout>

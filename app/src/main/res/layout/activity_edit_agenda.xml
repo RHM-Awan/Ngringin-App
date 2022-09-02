@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:background="@color/white"
+	tools:context=".activity.admin.EditAgendaActivity">
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		app:layout_constraintTop_toTopOf="parent"
+		app:layout_constraintBottom_toTopOf="@id/fc_map">
+		<LinearLayout
+			android:id="@+id/ll_form"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			app:layout_constraintTop_toTopOf="parent"
+			android:padding="25dp"
+			android:orientation="vertical">
+			<TextView
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="Judul Agenda"
+				android:textStyle="bold"/>
+			<EditText
+				android:id="@+id/et_judul"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:hint="Judul Agenda"
+				android:layout_marginBottom="10dp"/>
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:layout_marginBottom="10dp">
+				<TextView
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:text="Waktu Mulai"/>
+				<EditText
+					android:id="@+id/et_mulai"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:hint="Waktu Mulai"
+					android:clickable="false"
+					android:cursorVisible="false"
+					android:focusable="false"
+					android:focusableInTouchMode="false"/>
+			</LinearLayout>
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:layout_marginBottom="10dp">
+				<TextView
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:text="Waktu Selesai"/>
+				<EditText
+					android:id="@+id/et_selesai"
+					android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:hint="Waktu Mulai"
+					android:clickable="false"
+					android:cursorVisible="false"
+					android:focusable="false"
+					android:focusableInTouchMode="false"/>
+			</LinearLayout>
+			<TextView
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="Keterangan Tambahan"/>
+			<EditText
+				android:id="@+id/et_keterangan"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:textStyle="bold"
+				android:layout_marginBottom="10dp"/>
+			<TextView
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="Lokasi"/>
+			<EditText
+				android:id="@+id/et_lokasi"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:textStyle="bold"
+				android:layout_marginBottom="10dp"/>
+			<TextView
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center"
+				android:text="Kordinat"/>
+			<TextView
+				android:id="@+id/tv_coordinat"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginBottom="10dp"
+				android:gravity="center"
+				android:text="-7.511149439512345, 112.07081251082738"
+				android:textColor="@color/black"
+				android:textStyle="bold"/>
+
+		</LinearLayout>
+	</ScrollView>
+	<androidx.fragment.app.FragmentContainerView
+		android:layout_margin="10dp"
+		android:name="com.google.android.gms.maps.SupportMapFragment"
+		android:id="@+id/fc_map"
+		android:layout_width="match_parent"
+		android:layout_height="250dp"
+		app:layout_constraintBottom_toTopOf="@id/btn_simpan"/>
+	<Button
+		android:id="@+id/btn_simpan"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_margin="25dp"
+		app:layout_constraintBottom_toBottomOf="parent"
+		android:text="simpan"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

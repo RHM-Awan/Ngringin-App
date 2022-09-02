@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_create_agenda.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_create_galeri.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_detail_galeri_admin.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_detail_galeri_user.xml" value="0.25" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_detail_kegiatan_admin.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_detail_kegiatan_user.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_detail_user.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_edit_agenda.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_edit_galeri.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_profil.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_statistik_pencapaian.xml" value="0.3390625" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/activity_statistik_presensi.xml" value="0.25" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/fragment_agenda_admin.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/fragment_agenda_user.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/fragment_biodata.xml" value="0.225" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/fragment_galeri_admin.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/fragment_galeri_user.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/fragment_kegiatan.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/fragment_list_presensi.xml" value="0.22" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/fragment_pencapaian.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/fragment_presensi_admin.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/fragment_presensi_user.xml" value="0.1765625" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/row_galeri.xml" value="0.25" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/row_pencapaian.xml" value="0.25" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/row_presensi.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/row_presensi_user.xml" value="0.18" />
+        <entry key="..\:/Users/Marcel/ANDROID APP/NgringinApk/app/src/main/res/layout/row_slider_galeri.xml" value="0.1765625" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/drawable/tab_indicator_selected.xml" value="0.1435" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_create_agenda.xml" value="0.25" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_create_galeri.xml" value="0.25" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_detail_agenda_admin.xml" value="0.25" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_detail_agenda_user.xml" value="0.25" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_detail_galeri_admin.xml" value="0.18125" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_detail_galeri_user.xml" value="0.2" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_detail_kegiatan_user.xml" value="0.18125" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_detail_user.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_edit_agenda.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_edit_biodata.xml" value="0.228125" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_edit_galeri.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_edit_pencapaian.xml" value="0.18" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_edit_profil.xml" value="0.18125" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_login.xml" value="0.24954710144927536" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_main_admin.xml" value="0.12" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_main_user.xml" value="0.1375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_map.xml" value="0.2726449275362319" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_profil.xml" value="0.18125" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/activity_users.xml" value="0.2726449275362319" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/admin_side_header.xml" value="0.2726449275362319" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/date_time_picker.xml" value="0.2726449275362319" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/fragment_agenda.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/fragment_agenda_admin.xml" value="0.22" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/fragment_agenda_user.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/fragment_aktif.xml" value="0.23802083333333332" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/fragment_biodata.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/fragment_galeri_user.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/fragment_pencapaian.xml" value="0.2" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/fragment_presensi_user.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/row_agenda.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/row_edit_pencapaian.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/row_galeri.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/row_murid.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/row_pencapaian.xml" value="0.2" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/row_presensi.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/row_user.xml" value="0.1334853090172239" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/layout/row_user_presensi.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/menu/admin_side_menu.xml" value="0.2484375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/menu/bottom_menu.xml" value="0.17760416666666667" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/menu/user_bottom_menu.xml" value="0.1375" />
+        <entry key="..\:/androidApp/NgringinApk/app/src/main/res/menu/user_kebab_menu.xml" value="0.17760416666666667" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.149" />
+        <entry key="app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.149" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.149" />
+        <entry key="app/src/main/res/drawable/ic_baseline_assignment_24.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.149" />
+        <entry key="app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.149" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.149" />
+        <entry key="app/src/main/res/drawable/ic_menu_home.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/round_shape.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/tab_indicator_default.xml" value="0.149" />
+        <entry key="app/src/main/res/drawable/tab_indicator_selected.xml" value="0.149" />
+        <entry key="app/src/main/res/drawable/tab_selector.xml" value="0.149" />
+        <entry key="app/src/main/res/layout/activity_create_agenda.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_create_galeri.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_detail_agenda_admin.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_detail_agenda_user.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_detail_galeri_admin.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_detail_galeri_user.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_detail_kegiatan_admin.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_detail_kegiatan_user.xml" value="0.26950836181640625" />
+        <entry key="app/src/main/res/layout/activity_detail_user.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_edit_agenda.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_edit_biodata.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_edit_galeri.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_edit_pencapaian.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main_admin.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main_user.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_map.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_profil.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_statistik_pencapaian.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_statistik_presensi.xml" value="0.24850299401197604" />
+        <entry key="app/src/main/res/layout/activity_users.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/admin_side_header.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/date_time_picker.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_agenda_admin.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_agenda_user.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_biodata.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_galeri_admin.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_galeri_user.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_kegiatan.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_list_presensi.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_pencapaian.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_presensi_admin.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_presensi_user.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/item_auto.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_agenda.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_galeri.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_pencapaian.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_presensi.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_presensi_user.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_slider_galeri.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_user.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/admin_side_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/user_kebab_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12427062988281255" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1475" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context=".activity.user.DetailGaleriUserActivity"
+	android:padding="25dp"
+	android:background="@color/white"
+	android:orientation="vertical">
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:layout_marginBottom="15dp">
+		<androidx.viewpager2.widget.ViewPager2
+			android:id="@+id/vp_slider"
+			android:layout_width="match_parent"
+			android:layout_height="120dp"
+			android:layout_marginBottom="-15dp"/>
+		<com.google.android.material.tabs.TabLayout
+			android:id="@+id/tl_slider"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			app:tabBackground="@drawable/tab_selector"
+			app:tabGravity="center"
+			app:tabIndicatorHeight="0dp"
+			android:background="#00EFEFEF"/>
+	</LinearLayout>
+	<TextView
+		android:id="@+id/tv_judul"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Judul Galeri"
+		android:textStyle="bold"
+		android:layout_marginBottom="10dp"/>
+	<TextView
+		android:id="@+id/tv_tanggal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		tools:text="Tanggal Galeri"
+		android:layout_marginBottom="10dp"/>
+	<TextView
+		android:id="@+id/tv_detail"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		tools:text="Isi detail galeri"
+		android:textStyle="bold"
+		android:layout_marginBottom="10dp"/>
+	<TextView
+		android:id="@+id/tv_creator"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		tools:text="Oleh rahmawan"/>
+</LinearLayout>

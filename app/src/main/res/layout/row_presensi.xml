@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:padding="15dp"
+	android:orientation="vertical"
+	android:clickable="true"
+	android:focusable="true"
+	android:background="?android:attr/selectableItemBackground">
+	<TextView
+		android:id="@+id/tv_judul"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:textStyle="bold"
+		android:textColor="@color/black"
+		tools:text="Judul Kegiatan"/>
+	<TextView
+		android:id="@+id/tv_keterangan"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		tools:text="Terlambat 5 menit" />
+</LinearLayout>
